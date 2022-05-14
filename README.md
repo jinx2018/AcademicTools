@@ -9,7 +9,7 @@ Useful academic tools for researchers, mostly deep learning researchers
 - [Matplotlib plot demo](https://github.com/aHuiWang/plot_demo)
 - [Python Plotting Tools](https://github.com/guanyingc/python_plot_utils)
 ## LaTeX
-
+- [anootate latex equations](https://github.com/synercys/annotated_latex_equations)
 
 ## Programming
 - [annotate](https://github.com/vpj/annotate)
