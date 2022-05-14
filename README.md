@@ -1,2 +1,9 @@
-# academic-tools
-Academic tools for researchers, mostly deep learning researchers
+# Academic-tools
+
+## Writing style
+
+
+## Ploting
+- [Deep Learning Figures](https://github.com/ThomasRobertFr/deep-learning-figures)
+
+## 
