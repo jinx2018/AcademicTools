@@ -8,6 +8,7 @@ Useful academic tools for researchers, mostly deep learning researchers
 - [Deep Learning Figures](https://github.com/ThomasRobertFr/deep-learning-figures)
 - [Matplotlib plot demo](https://github.com/aHuiWang/plot_demo)
 - [Python Plotting Tools](https://github.com/guanyingc/python_plot_utils)
+- [MulimgViewer](https://github.com/nachifur/MulimgViewer)
 ## LaTeX
 - [anootate latex equations](https://github.com/synercys/annotated_latex_equations)
 
