@@ -5,6 +5,7 @@ Useful academic tools for researchers, mostly deep learning researchers
 - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
 - [tips](https://github.com/jbhuang0604/awesome-tips)
 - [English-Writing](https://github.com/yzy1996/English-Writing)
+- [awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
 
 ## Ploting
 - [Deep Learning Figures](https://github.com/ThomasRobertFr/deep-learning-figures)
