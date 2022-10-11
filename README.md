@@ -15,6 +15,7 @@ Useful academic tools for researchers, mostly deep learning researchers
 ## LaTeX
 - [anootate latex equations](https://github.com/synercys/annotated_latex_equations)
 - [math symbols](https://github.com/mazhengcn/suggested-notation-for-machine-learning)
+- [LaTexlive](https://www.latexlive.com/)
 
 ## Programming
 - [annotate](https://github.com/vpj/annotate)
