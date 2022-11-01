@@ -6,6 +6,11 @@ Useful academic tools for researchers, mostly deep learning researchers
 - [tips](https://github.com/jbhuang0604/awesome-tips)
 - [English-Writing](https://github.com/yzy1996/English-Writing)
 - [awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
+- [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks)
+- [Paper writing checklist and advice](https://github.com/khufkens/paper_writing_checklist)
+- [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing)
+- [How to Write Research Papers](https://github.com/Uehwan/how-to-write-research-papers)
 
 ## Ploting
 - [Deep Learning Figures](https://github.com/ThomasRobertFr/deep-learning-figures)
@@ -16,6 +21,7 @@ Useful academic tools for researchers, mostly deep learning researchers
 - [anootate latex equations](https://github.com/synercys/annotated_latex_equations)
 - [math symbols](https://github.com/mazhengcn/suggested-notation-for-machine-learning)
 - [LaTexlive](https://www.latexlive.com/)
+- [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
 
 ## Programming
 - [annotate](https://github.com/vpj/annotate)
