@@ -12,6 +12,8 @@ Useful academic tools for researchers, mostly deep learning researchers
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing)
 - [How to Write Research Papers](https://github.com/Uehwan/how-to-write-research-papers)
 - [Writing a Research Paper With Me](https://github.com/lintool/guide/blob/master/writing-a-research-paper-with-me.md)
+- [Paper writing checklist and advice](https://github.com/khufkens/paper_writing_checklist)
+
 
 ## Ploting
 - [Deep Learning Figures](https://github.com/ThomasRobertFr/deep-learning-figures)
